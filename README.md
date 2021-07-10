@@ -10,4 +10,4 @@
 - 📫 How to reach me:[Linkedin - Raghul M](https://www.linkedin.com/in/m-raghul)
 
 
--<img src="https://github-readme-stats.vercel.app/api?username=Raghul-M&&show_icons=true&title_color=66ffcc&icon_color=7FFFD4&text_color=daf7dc&bg_color=191919">
+-<img src="https://github-readme-stats.vercel.app/api?username=Raghul-M&&show_icons=true&title_color=66ffb3&icon_color=7FFFD4&text_color=daf7dc&bg_color=000000">
