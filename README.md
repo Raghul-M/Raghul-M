@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently a College Student.
 - 🌱 I’m currently learning Cloud Computing,Programming(C,C++,JAVA)
-- 👯 I’m looking to collaborate on AWS.
+- 👬 I’m looking to collaborate on AWS.
 - 🤔 I’m looking for help with AWS Services Handson Practice
 - 💬 Ask me about Programming and Tech related Stuffs
 - 📫 How to reach me:[Linkedin - Raghul M](https://www.linkedin.com/in/m-raghul)
