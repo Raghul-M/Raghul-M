@@ -7,4 +7,5 @@
 - 👯 I’m looking to collaborate on AWS
 - 🤔 I’m looking for help with AWS Services Handson Practice
 - 💬 Ask me about Programming and Tech related Stuffs
-- 📫 How to reach me: [Linkedin - Raghul M](www.linkedin.com/in/m-raghul)
+- 📫 How to reach me:[Linkedin - Raghul M](https://www.linkedin.com/in/m-raghul)
+
