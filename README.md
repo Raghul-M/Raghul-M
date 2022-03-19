@@ -3,9 +3,8 @@
 
 
 - 🔭 I’m currently a College Student.
-- 🌱 I’m currently learning Cloud Computing,Programming(C,C++,JAVA)
-- 👬 I’m looking to for mentor on AWS.
-- 🤔 I’m looking for help with AWS Services Handson Practice
+- 🌱 I’m currently learning Azure,Programming(JAVA)
+- 👬 I’m looking to for mentor on Azure.
 - 💬 Ask me about Programming and Tech related Stuffs
 - 📫 How to reach me:[Linkedin - Raghul M](https://www.linkedin.com/in/m-raghul)
 
