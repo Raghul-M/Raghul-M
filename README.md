@@ -22,7 +22,14 @@
 ##
 
 
-<h3 align="left">Connect with me:</h3><img align="right" alt="Coding" width="300" src="https://media1.giphy.com/media/pxByU4o4jZu3XrOxct/giphy.gif?cid=790b7611489ni7wnddmbjafuist0mm4dqlaxisdlixuueo3b&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<h3 align="left">Connect :</h3>
+<img align="center" alt="Coding" width="300" src="https://media1.giphy.com/media/pxByU4o4jZu3XrOxct/giphy.gif?cid=790b7611489ni7wnddmbjafuist0mm4dqlaxisdlixuueo3b&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://raghul-m.github.io/) 
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-raghul)
+
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RaghulM01)
 
 
 
