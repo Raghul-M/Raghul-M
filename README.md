@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Software Development or any Techstuffs**
 
-- 👨‍💻 All of my projects are available at [www.raghul-m.github.io/](https://raghul-m.github.io/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://raghul-m.github.io/)
 
 - 💬 Ask me about **Tech, Fitness & Anything**
 
