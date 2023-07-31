@@ -1,21 +1,19 @@
 <h1 align="center">Hi 👋, I'm RaghulM</h1>
-<h3 align="center">A passionate learner , Tech Enthusiast and Aspiring Cloud Engineer from Chennai , India</h3>
+<h3 align="center">A passionate learner , Tech Enthusiast and Aspiring Developer from Chennai , India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 <p align="left"> <a href="https://twitter.com/raghulm01" target="blank"><img src="https://img.shields.io/twitter/follow/raghulm01?logo=twitter&style=for-the-badge" alt="raghulm01" /></a> </p>
 
-- 🔭 I’m currently working on **Azure & Python dev**
+- 🔭 I’m currently working on **Python development , Data Analytics & Data Science**
 
-- 🌱 I’m currently learning **Python & Cloud Stack**
+- 🌱 I’m currently learning **Python Full-Stack Development & Cloud Computing**
 
-- 👯 I’m looking to collaborate on **Azure & Development**
+- 👯 I’m looking to collaborate on **Software Development or any Techstuffs**
 
-- 👨‍💻 All of my projects are available at [www.raghul.tech](www.raghul.tech)
+- 👨‍💻 All of my projects are available at [www.raghul-m.github.io/](https://raghul-m.github.io/)
 
-- 💬 Ask me about **Azure and Python**
+- 💬 Ask me about **Tech, Fitness & Anything**
 
 - 📫 How to reach me **raghulmadhavan1@gmail.com**
-
-- 📄 Know about my experiences [shorturl.at/bcpM7](shorturl.at/bcpM7)
 
 - ⚡ Thought **Dream - Believe - Build**
 
