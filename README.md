@@ -2,6 +2,7 @@
 <h3 align="center">A passionate learner , Tech Enthusiast and Aspiring Developer from Chennai , India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
+
 ## 
 
 - 🔭 I’m currently working on **Python development , Data Analytics & Data Science**
@@ -20,16 +21,14 @@
 
 ##
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
- 
-<a href="https://twitter.com/raghulm01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raghulm01" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/m-raghul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m-raghul" height="30" width="40" /></a>
-<a href="https://instagram.com/raghul_official._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raghul_official._" height="30" width="40" /></a>
 
-<a href="https://codepen.io/raghul-m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="raghul-m" height="30" width="40" /></a>
-<a href="https://discord.gg/3286" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="3286" height="30" width="40" /></a>
-</p>
+<h3 align="left">Connect with me:</h3><img align="right" alt="Coding" width="300" src="https://media1.giphy.com/media/pxByU4o4jZu3XrOxct/giphy.gif?cid=790b7611489ni7wnddmbjafuist0mm4dqlaxisdlixuueo3b&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+
+
+
+
+
+
 
 ##
 
