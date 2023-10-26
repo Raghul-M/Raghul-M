@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm RaghulM</h1>
-<h3 align="center">A passionate learner , Tech Enthusiast and Aspiring Developer from Chennai , India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<h1 align="center">Hi 👋, I'm Raghul M</h1>
+<h3 align="center">A passionate learner, Tech Enthusiast, and Aspiring Developer from Chennai, India</h3>
+<img align="right" alt="Coding" width="400" src="https://img.etimg.com/thumb/width-420,height-315,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 
 
 ## 
 
-- 🔭 I’m currently working on **Python development , Data Analytics & Data Science**
+- 🔭 I’m currently working on **Cloud, DevOps & Opensource**
 
-- 🌱 I’m currently learning **Python Full-Stack Development & Cloud Computing**
+- 🌱 I’m currently learning **Python Full-Stack Development, Cloud Computing, and DevOps Tools **
 
 - 👯 I’m looking to collaborate on **Software Development or any Techstuffs**
 
