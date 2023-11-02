@@ -1,4 +1,4 @@
-<!-- <img alt="Kunal Keshan" src="<Banner URL HERE>" /> -->
+
 <h1 align="center">
   
   Hello there, I'm [Raghul M](https://raghul-m.github.io/)  👋
@@ -9,7 +9,7 @@
 <img   align="center" alt="Coding" width="500" height="300" src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif">
 
 <div>
-<!--   <img alt="Kunal Keshan Profile" align="right" width="30%" src="https://avatars.githubusercontent.com/u/68579547?v=4" /> -->
+
   <p align="center">
 Hey there, I'm Raghul! I'm a tech enthusiast, passionate about innovation and creating solutions through software development. On the side, I also write, create content, and share knowledge about open source, DevOps, and more
 
