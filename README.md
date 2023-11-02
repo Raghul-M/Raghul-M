@@ -18,10 +18,10 @@ Hey there, I'm Raghul! I'm a tech enthusiast, passionate about innovation and cr
   <h3 align="center">  Developer | Writer | Creator </h3>
 </div>
 
-<h3>
+
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Raghul-M&label=Profile%20views&color=6805D3&style=for-the-badge" alt="Raghul Profile Visits" />    
-</h3>
+
  <p align="center">
   🤝I’m looking to collaborate on Software Development or any Techstuffs 
  <br><br>💬 Ask me about <b>Tech, Fitness & Anything</b>
