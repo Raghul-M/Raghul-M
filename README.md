@@ -1,4 +1,5 @@
 
+
 <h1 align="center">
   
   Hello there, I'm [Raghul M](https://raghul-m.github.io/)  👋
@@ -6,7 +7,7 @@
 </h1>
 
 
-<img align="center" alt="Coding" width="1200" height="300" src="https://github.com/Raghul-M/Raghul-M/assets/71755586/e823f113-640b-46a8-b920-e54d426b7deb">
+<img align="center" alt="Coding" width="1200" height="300" src="https://github.com/Raghul-M/Raghul-M/assets/71755586/dd1309d9-399b-43aa-af3f-77c989f8ff8e">
 
 <div><br><br>
 
