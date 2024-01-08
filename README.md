@@ -4,10 +4,11 @@
   
   Hello there, I'm [Raghul M](https://raghul-m.github.io/)  👋
  
+
 </h1>
 
 
-<img align="center" alt="Coding" width="1200" height="300" src="https://github.com/Raghul-M/Raghul-M/assets/71755586/dd1309d9-399b-43aa-af3f-77c989f8ff8e">
+<img align="center" alt="Coding" width="1200" height="300" src="https://github.com/Raghul-M/Raghul-M/assets/71755586/a8a6e7a0-4c91-4373-99fe-2e63ed9d3b69">
 
 <div><br><br>
 
