@@ -58,7 +58,7 @@ Hey there, I'm Raghul! I'm a tech enthusiast, passionate about innovation and cr
 </div>
 
 
-  <a href="https://hashnode.com/@Raghul-M"><img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
+  <a href="https://raghul.hashnode.dev/"><img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
   <a href="https://dev.to/raghul"><img alt="Dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
  
 </div>
