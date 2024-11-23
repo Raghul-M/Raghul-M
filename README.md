@@ -2,7 +2,7 @@
 
 <h1 align="center">
   
-  Hello there, I'm [Raghul M](https://raghul-m.github.io/)  👋
+  Hello there, I'm [Raghul M](https://raghul.in)  👋
  
 
 </h1>
@@ -23,7 +23,7 @@ Hey there, I'm Raghul! I'm a tech enthusiast, passionate about innovation and cr
 
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Raghul-M&label=Profile%20views&color=6805D3&style=for-the-badge" alt="Raghul Profile Visits" />    
-    <a href="https://raghul-m.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+    <a href="https://raghul.in"><img alt="Portfolio" src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
  <p align="center">
   🤝I’m looking to collaborate on Software Development or any Techstuffs 
  <br><br>💬 Ask me about <b>Tech, Fitness & Anything</b>
