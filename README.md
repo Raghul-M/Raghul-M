@@ -8,7 +8,7 @@
 </h1>
 
 
-<img align="center" alt="Coding" width="1400" height="300" src="https://github.com/user-attachments/assets/35520f69-c30f-4050-918c-d77b48f71421">
+![Green and White Technology LinkedIn Banner (2) (1)](https://github.com/user-attachments/assets/a4b9a490-8d92-4dae-b72e-6c34b5aabcf1)
 
 
 
