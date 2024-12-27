@@ -10,9 +10,7 @@
 
 ![Green and White Technology LinkedIn Banner (2) (1)](https://github.com/user-attachments/assets/a4b9a490-8d92-4dae-b72e-6c34b5aabcf1)
 
-
-
-<div><br><br>
+<div><br>
 
   <p align="center">
 Hey there, I'm Raghul!
