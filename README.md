@@ -75,7 +75,7 @@ I'm a tech enthusiast passionate about innovation and crafting solutions through
 -------
 
 
-
+<!--
 <table align="center">
   <tr>
     <td>
@@ -92,7 +92,7 @@ I'm a tech enthusiast passionate about innovation and crafting solutions through
 ![raghul-m's Stats](https://github-readme-stats.vercel.app/api?username=raghul-m&theme=dark&show_icons=true&hide_border=true&count_private=true)
   
 </div>
-
+--->
 
 
 [![Raghul M github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=raghul-m&bg_color=000000&color=2fe999&line=4c9e78&point=f2f2f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
