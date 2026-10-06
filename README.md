@@ -6,9 +6,13 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=360&height=44&lines=I%20DO%20OPEN%20SOURCE%20%3A)" alt="Typing headlines" />
 </p>
-
-![Green and White Technology LinkedIn Banner (2) (1)](https://github.com/user-attachments/assets/a4b9a490-8d92-4dae-b72e-6c34b5aabcf1)
-
+<p align="center">
+  <img
+    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXg4d2xzaGR5cjJ6Z2M4Nmk4Y3I1dXN5c3RzcW5iMjltcGs4MmczaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MC6eSuC3yypCU/giphy.gif"
+    alt="Matrix banner"
+    width="70%"
+  />
+</p>
 <div><br>
 
   <p align="center">
@@ -64,7 +68,7 @@
     </td>
     <td width="50%" valign="top">
       <h3 align="center">
-        <a href="https://learnforfree-five.vercel.app/" style="color:#000000;">Learn For Free</a>
+        <a href="https://learnforfree.vercel.app/" style="color:#000000;">Learn For Free</a>
       </h3>
       <p align="center">
         One index of free, high-quality courses and channels. Built so a student can start learning without hunting through paywalls.
@@ -247,7 +251,7 @@
 <h2 align="center">Connect with me</h2>
 
 <p align="center">
-  <img align="center" alt="Coding" width="500" height="300" src="https://media1.giphy.com/media/pxByU4o4jZu3XrOxct/giphy.gif?cid=790b7611489ni7wnddmbjafuist0mm4dqlaxisdlixuueo3b&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+  <img align="center" alt="Coding" width="500" height="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWtqZXU3MTQ4eTliNW54cDlxamMwaGc3a2F2ZXpqY3NpaWc1bTRneiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1iLzGgZjH8DTlp96/giphy.gif">
 </p>
 
 <div align="center">
@@ -264,6 +268,10 @@
 
 
 
+
+
+### 📈 GitHub Stats
+
 <p align="center">
   <img
     height="165"
@@ -277,6 +285,7 @@
   />
 </p>
 
+### 💸 Contribution Graph
 
 <p align="center">
   <img
