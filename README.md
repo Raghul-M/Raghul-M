@@ -27,7 +27,7 @@
   <img src="https://komarev.com/ghpvc/?username=Raghul-M&label=Profile%20views&color=6805D3&style=for-the-badge" alt="Raghul Profile Visits" />
   <a href="https://raghul.in"><img alt="Portfolio" src="https://img.shields.io/badge/raghul.in-000?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
   <a href="https://github.com/Raghul-M"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Raghul--M-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://blogs.raghul.in"><img alt="Blog" src="https://img.shields.io/badge/Blog-blogs.raghul.in-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
+  <a href="https://blog.raghul.in"><img alt="Blog" src="https://img.shields.io/badge/Blog-blog.raghul.in-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
 </p>
 
 <p align="center">
@@ -179,13 +179,13 @@
 </p>
 </div>
 
-<h2 align="center">📝 Tech Blogs</h2>
+<h2 align="center">📝 Tech blog</h2>
 
 <p align="center">
-  <a href="https://blogs.raghul.in">
+  <a href="https://blog.raghul.in">
     <img
       alt="Blog"
-      src="https://img.shields.io/badge/Blog-blogs.raghul.in-000000?style=for-the-badge&logo=hashnode&logoColor=white"
+      src="https://img.shields.io/badge/Blog-blog.raghul.in-000000?style=for-the-badge&logo=hashnode&logoColor=white"
     />
   </a>
 </p>
@@ -194,7 +194,7 @@
   <tr>
     <!-- Blog 1 -->
     <td width="50%" valign="top">
-      <a href="https://blogs.raghul.in/the-hidden-software-behind-every-ai-gpu">
+      <a href="https://blog.raghul.in/the-hidden-software-behind-every-ai-gpu">
         <img
           src="https://cdn.hashnode.com/uploads/covers/6133a0b7489de51a6a7ae0d3/b96af9b0-f7e6-409b-85cc-ef600eba2416.jpg"
           alt="The hidden software stack behind every AI GPUs"
@@ -206,7 +206,7 @@
     </td>
     <!-- Blog 2 -->
     <td width="50%" valign="top">
-      <a href="https://blogs.raghul.in/vllm-the-simple-guide-for-non-devs-and-curious-minds">
+      <a href="https://blog.raghul.in/vllm-the-simple-guide-for-non-devs-and-curious-minds">
         <img
           src="https://blog.raghul.in/api/og/post?og=eyJhdXRob3IiOiJSYWdodWwlMjBNIiwiaXNEZWZhdWx0TW9kZURhcmsiOmZhbHNlLCJyZWFkVGltZSI6MywiY29tbWVudHMiOjAsInJlYWN0aW9ucyI6MCwiZG9tYWluIjoiYmxvZy5yYWdodWwuaW4iLCJ0aXRsZSI6InZMTE0lMjAlM0YlMjBUaGUlMjBTaW1wbGUlMjBHdWlkZSUyMGZvciUyME5vbi1EZXZzJTIwYW5kJTIwQ3VyaW91cyUyME1pbmRzIiwicGhvdG8iOiJodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTcyMTEwOTM5NTU4Ni9oSWxWRlRGanYucG5nIiwibG9nbyI6bnVsbCwiZmF2aWNvbiI6Imh0dHBzOi8vY2RuLmhhc2hub2RlLmNvbS9yZXMvaGFzaG5vZGUvaW1hZ2UvdXBsb2FkL3YxNjkzMDUxODg0OTcyL0RHLWtPSU1oRi5wbmciLCJwdWJsaXNoZWRBdCI6IjIwMjUtMDctMzFUMTc6NDg6MzYuMTE0WiIsInVwZGF0ZWRBdCI6bnVsbH0=" alt="vLLM, without the research-paper voice"
           alt="vLLM Smartest Inference Server"
@@ -221,7 +221,7 @@
   <tr>
     <!-- Blog 3 -->
     <td width="50%" valign="top">
-      <a href="https://blogs.raghul.in/local-ai-server-for-free-with-ollama-cloudflare-tunnel">
+      <a href="https://blog.raghul.in/local-ai-server-for-free-with-ollama-cloudflare-tunnel">
         <img
           src="https://blog.raghul.in/api/og/post?og=eyJhdXRob3IiOiJSYWdodWwlMjBNIiwiaXNEZWZhdWx0TW9kZURhcmsiOmZhbHNlLCJyZWFkVGltZSI6NCwiY29tbWVudHMiOjAsInJlYWN0aW9ucyI6MCwiZG9tYWluIjoiYmxvZy5yYWdodWwuaW4iLCJ0aXRsZSI6IkhvdyUyMEklMjBUdXJuZWQlMjBhbiUyME9sZCUyMExhcHRvcCUyMGludG8lMjBhJTIwTG9jYWwlMjBBSSUyMFNlcnZlciUyMChmb3IlMjBGcmVlISklMjB3aXRoJTIwT2xsYW1hJTIwJTJCJTIwQ2xvdWRmbGFyZSUyMFR1bm5lbCIsInBob3RvIjoiaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE3MjExMDkzOTU1ODYvaElsVkZURmp2LnBuZyIsImxvZ28iOm51bGwsImZhdmljb24iOiJodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTY5MzA1MTg4NDk3Mi9ERy1rT0lNaEYucG5nIiwicHVibGlzaGVkQXQiOiIyMDI1LTA0LTExVDE1OjEwOjA4LjMxNloiLCJ1cGRhdGVkQXQiOiIyMDI1LTA0LTExVDE1OjEzOjAyLjQxMFoifQ=="
           alt="Turning Old laptop to local AI server"
@@ -233,7 +233,7 @@
     </td>
     <!-- Blog 4 -->
     <td width="50%" valign="top">
-      <a href="https://blogs.raghul.in/understanding-transformers-the-backbone-of-modern-ai">
+      <a href="https://blog.raghul.in/understanding-transformers-the-backbone-of-modern-ai">
         <img
           src="https://cdn.hashnode.com/res/hashnode/image/upload/v1738325270417/e30050d9-d953-4443-ba56-6cee75dc9792.jpeg"
           alt="Transformers, the actual backbone of Modern AI"
